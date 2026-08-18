@@ -1,0 +1,18 @@
+# Relatórios gerados pelo diskscan
+disk-report.html
+*-report.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
